@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es6", 
+        "outDir": "out/",
+        "sourceMap": true
+    },
+    "files": [
+        "IShape.ts",
+        "Circle.ts",
+        "Triangle.ts",
+        "Test.ts"
+    ]    
+}
